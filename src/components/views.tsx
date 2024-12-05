@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStore,faDollarSign,faShoppingBag,faMoneyBill1Wave} from '@fortawesome/free-solid-svg-icons';
 

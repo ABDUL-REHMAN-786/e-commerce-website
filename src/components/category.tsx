@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMobileAlt,faDesktop,faStopwatch,faCamera,faHeadphones,faGamepad } from '@fortawesome/free-solid-svg-icons';
 

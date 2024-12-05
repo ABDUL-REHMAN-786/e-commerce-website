@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faPhone,faMessage } from '@fortawesome/free-solid-svg-icons';
 
